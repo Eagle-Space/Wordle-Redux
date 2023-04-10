@@ -31,7 +31,6 @@ function App() {
       <Keyboard />
       <div>
         <p>Number of correct guesses: {correctCount}</p>
-        <p>Number of partially correct guesses: {partiallyCorrectCount}</p>
       </div>
     </div>
   );
